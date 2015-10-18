@@ -1,31 +1,17 @@
-@cheeaun's life
+@Mause's life
 ===============
 
-- 20/06/1985 Born
-- 1991 Kindergarten
-- 1992-1997 Primary school - SKSJ
-- 1998-2000 Secondary school - SMKTI
-- ~2000 First computer
-- 2001-2002 Secondary school - SMKDOB
-- 04/11/2002 Phoenity is born
-- 2003-2004 Secondary school (Form 6) - SMKDOB
-- 01/2005-03/2005 First (non-technical) job
-- 08/2005-08/2008 University - UTAR
-- 11/2005 Dead hard drive of first computer
-- 07/2006-05/2007 CSS Web Designer - MindValley
-- 18/12/2006 [First tweet](https://twitter.com/cheeaun/status/1298723)
-- 04/2007 First laptop (HP)
-- 06/2008-07/2009 Web Developer - ZoeCity
-- 24/08/2009-26/06/2013 Front-End Developer - Wego
-- 07/2010 Second laptop (Dell)
-- 04/03/2012 [HackerWeb featured](https://news.ycombinator.com/item?id=3662709) on Hacker News
-- 01/07/2013-~ Software Engineer - Viki
-- 02/12/2013 [Life featured](https://news.ycombinator.com/item?id=6833565) on Hacker News
-- 24/12/2013 Third laptop/ultrabook (Dell)
-- 10/01/2014-09/05/2014 First trip to US (SF and Portland)
-- 11/09/2014-21/09/2014 First trip to Germany (Berlin)
-- 28/10/2014-8/11/2014 First trip to Australia (Sydney)
-- 23/04/2015-01/05/2015 First trip to New Zealand (Auckland)
-- 09/05/2015-16/05/2015 Second trip to Germany (Düsseldorf and Cologne)
-- 27/06/2015-05/07/2015 First trip to France (Paris)
-- 30/07/2015 Dad passed away
+- 07/08/1996 Born
+- 2009 Built first website
+- 2009 Built first computer
+- 2009 Learnt Python
+- 2009-2013 Attended Margaret River Senior High School
+- 12/2011 Attended my first <a href="http://rflan.org">RFLAN</a>
+- 09/2010-12/2013 Worked at Brookwood Estate
+- 2010 Learnt Javascript
+- 2012 Learnt C/C++/CMake
+- 19/11/2013 First interview for job (Southern Cross Austereo)
+- 26/02/2014 Accepted into Curtin University
+- 03/2014-06/2014 Learnt Java
+- 07/08/2014 Turned eighteen
+- 20/08/2014 First drink
