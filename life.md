@@ -6,7 +6,7 @@
 - 2009 Built first computer
 - 2009 Learnt Python
 - 2009-2013 Attended Margaret River Senior High School
-- 12/2011 Attended my first <a href="http://rflan.org">RFLAN</a>
+- 12/2011 Attended my first [RFLAN](http://rflan.org)
 - 09/2010-12/2013 Worked at Brookwood Estate
 - 2010 Learnt Javascript
 - 2012 Learnt C/C++/CMake
@@ -16,6 +16,7 @@
 - 07/08/2014 Turned eighteen
 - 20/08/2014 First drink
 - 21/10/2016-~ Bankwest
-- 21/04/2017 Start hormones
+- 21/04/2017 Started hormones
 - 10/2019-~ Dating [redacted]
+- 28/10/2020 First implant
 - 15/05/2020 Came out as trans to the wider world
