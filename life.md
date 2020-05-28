@@ -18,4 +18,4 @@
 - 21/10/2016- Bankwest
 - 21/04/2017 Start hormones
 - 10/2019 Start dating [redacted]
-- 15/05/2020 Came out at trans
+- 15/05/2020 Came out as trans to the wider world
