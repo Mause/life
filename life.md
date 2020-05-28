@@ -15,6 +15,7 @@
 - 03/2014-06/2014 Learnt Java
 - 07/08/2014 Turned eighteen
 - 20/08/2014 First drink
+- 08/09/2016 Bankwest interview
 - 21/10/2016-~ Bankwest
 - 21/04/2017 Started hormones
 - 10/2019-~ Dating [redacted]
